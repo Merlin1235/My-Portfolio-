@@ -1,228 +1,36 @@
-# 🚀 CodeWithMerlin Portfolio
+# Joseph Musyimi Kala — Interview Portfolio
 
-<div align="center">
+A responsive, editorial-style portfolio built to present Joseph's software projects clearly in interviews.
 
-# 👋 Hi, I'm Joseph Musyimi Kala
+## What was added
 
-### Full Stack Developer • AI Enthusiast • Cybersecurity Student
+- Project ecosystem with explicit implementation status
+- Dedicated engineering case-study sections
+- Architecture diagrams for Joseph Garage and NetReconX
+- Engineering evidence section covering architecture, testing, documentation and measurement
+- Engineering workflow: Understand → Design → Build → Test → Improve
+- GitHub profile README ready to copy into the `merlin1235` profile repository
+- README template pack for each project
+- Accessibility basics: skip link, keyboard focus states, semantic navigation, alt text and reduced-motion support
+- Responsive mobile navigation and layout
+- Real contact links and profile photo
 
-Building modern web applications, open-source tools, and solving real-world problems through technology.
+## Important accuracy rule
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00C896?style=for-the-badge)](https://merlin1235.github.io/portfolio)
-[![GitHub](https://img.shields.io/badge/GitHub-merlin1235-black?style=for-the-badge&logo=github)](https://github.com/merlin1235)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+Do not add fake repository URLs, demo URLs, benchmark numbers, user counts, vulnerability claims or deployment claims. Replace placeholders only when the implementation has actually been completed and verified.
 
-</div>
+## Run locally
 
----
+Open `index.html` directly or use VS Code Live Server.
 
-# 📸 Portfolio Preview
+## Deploy
 
-<h2 align="center">Portfolio Preview</h2>
+Suitable for GitHub Pages, Netlify or Vercel.
 
-<p align="center">
-  <img src="./Screenshot%20(15).png" alt="Portfolio Preview" width="900">
+## GitHub preparation
 
----
+GitHub supports a profile README and pinned repositories for showcasing work. Use `github-profile/README.md` as the starting point, then pin the repositories that best represent the work you want visitors to see.
 
-# 🌐 Live Website
+## Accessibility reference
 
-> **Coming Soon**
-
-After deploying with GitHub Pages update this link to:
-
-```
-https://merlin1235.github.io/portfolio
-```
-
----
-
-# 👨‍💻 About Me
-
-Hello! I'm **Joseph Musyimi Kala**, also known as **CodeWithMerlin**.
-
-I'm a passionate **Computer Science student** focused on building high-quality software solutions. I enjoy developing modern web applications, exploring artificial intelligence, cybersecurity, blockchain technologies, and contributing to open-source projects.
-
-My goal is to become a world-class Software Engineer while building impactful technology that solves real-world problems.
-
----
-
-# 🚀 Features
-
-- Modern UI/UX Design
-- Responsive Layout
-- Dark & Light Theme
-- Animated Interface
-- Interactive Navigation
-- Projects Showcase
-- Skills Dashboard
-- GitHub Statistics
-- Certifications Section
-- Contact Form
-- Mobile Friendly
-
----
-
-# 🛠️ Built With
-
-- HTML5
-- CSS3
-- JavaScript
-- Font Awesome
-- Google Fonts
-
----
-
-# 💻 Featured Projects
-
-- 🌐 Personal Portfolio
-- 📋 Task Manager
-- 🌦️ Weather Application
-- 🔐 Authentication System
-- 🧮 JavaScript Calculator
-- 📊 SchemaLens
-- ⛓️ Blockchain Projects *(Coming Soon)*
-
----
-
-# 📚 Currently Learning
-
-- React.js
-- Next.js
-- Node.js
-- Express.js
-- Docker
-- Kubernetes
-- AI Engineering
-- Cloud Computing
-- Blockchain Development
-- Cybersecurity
-
----
-
-# 🎯 Goals
-
-- Build impactful open-source projects
-- Contribute to GitHub
-- Master Full Stack Development
-- Learn DevOps
-- Learn Machine Learning
-- Secure an internship
-- Become a Software Engineer
-
----
-
-# 📂 Repository Structure
-
-```
-portfolio/
-│
-├── index.html
-├── README.md
-├── LICENSE
-├── .gitignore
-│
-├── images/
-│   └── portfolio-preview.png
-│
-└── assets/
-```
-
----
-
-# 🚀 Run Locally
-
-Clone the repository
-
-```bash
-git clone https://github.com/merlin1235/portfolio.git
-```
-
-Go into the project
-
-```bash
-cd portfolio
-```
-
-Open the website
-
-```bash
-index.html
-```
-
-or simply double-click **index.html**
-
----
-
-# 📈 Future Improvements
-
-- Blog System
-- Backend Integration
-- Contact Email API
-- Admin Dashboard
-- Project CMS
-- Performance Optimization
-- SEO Improvements
-- Analytics Integration
-
----
-
-# 🤝 Connect With Me
-
-📧 Email
-
-```
-jkala863@gmail.com
-```
-
-🐙 GitHub
-
-```
-https://github.com/merlin1235
-```
-
-📸 Instagram
-
-```
-https://instagram.com/_merli.n
-```
-
-🌍 Portfolio
-
-```
-https://merlin1235.github.io/portfolio/
-```
-
----
-
-# ⭐ Support
-
-If you like this project, please give it a ⭐ on GitHub.
-
-It really helps and motivates me to build more awesome projects.
-
----
-
-# 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-<div align="center">
-
-## 💙 Made with HTML, CSS & JavaScript
-
-### Developed by **CodeWithMerlin**
-
-*"Building technology that makes a difference."*
-
-⭐ Don't forget to star this repository!
-
-</div># portfolio
-
-
-# My-Portfolio-
-A personal portfolio showcasing my projects, skills, experience, and journey as a developer.
+The portfolio follows practical accessibility basics and can be further checked against WCAG 2.2 before public launch.
